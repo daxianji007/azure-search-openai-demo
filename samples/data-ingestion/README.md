@@ -45,6 +45,7 @@ In order to ingest a document format, we need a tool that can turn it into text.
 | TXT    | Yes (Local)                          | Yes                      |
 | JSON   | Yes (Local)                          | Yes                      |
 | CSV    | Yes (Local)                          | Yes                      |
+| RTF    | Yes (Local)                          | Yes                      |
 
 The Blob indexer used by the Integrated Vectorization approach also supports a few [additional formats](https://learn.microsoft.com/azure/search/search-howto-indexing-azure-blob-storage#supported-document-formats).
 
